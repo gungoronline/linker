@@ -1,5 +1,8 @@
 # Linker Core
 
+## Installation
+- No required to installation. You should configure to /content/config/
+- config.email.php, config.php
 ## Classes
 ### Linkify class
 - require_once("system/class/class.linkify.php");	
