@@ -9,6 +9,8 @@
 - $linkify = new Linkify();
 - $linkify->BASE_URI = $base_site_url
 - GET BASE URL -> $linkify->base_url();
+### Uploadify class
+
 ### Database class
 - There are two types of classes. Type 1 is Linker methods, type 2 is PDO crud methods.
 - - Linker methods on /content/system/class/class.database.php
