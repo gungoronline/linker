@@ -9,6 +9,10 @@
 - $linkify = new Linkify();
 - $linkify->BASE_URI = $base_site_url
 - GET BASE URL -> $linkify->base_url();
+### Database class
+- There are two types of classes. Type 1 is Linker methods, type 2 is PDO crud methods.
+- - Linker methods on /content/system/class/class.database.php
+- - PDO crud methods on /content/system/class/class.coreDatabase.php
 
 # Linker CMS
 Repository of the Linker Core &amp; Linker CMS
