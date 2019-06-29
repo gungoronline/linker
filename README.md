@@ -12,6 +12,8 @@
 - $linkify->BASE_URI = $base_site_url
 - GET BASE URL -> $linkify->base_url();
 ### Uploadify class
+### Datetimes class
+- require_once("system/class/class.datetimes.php");
 
 ### Database class
 - There are 3 types of classes. Type 1 is Linker methods, type 2 and type 3 are PDO crud methods.
