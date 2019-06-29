@@ -5,6 +5,7 @@
 - config.email.php, config.php
 ## Admin Dashboard
 - Linker Core's you haven't a admin dashboard with Linker Core. for this, You would like to Linker CMS ?
+- if you using to Linker CMS, you can look /content/dashboard folder. There must be a folder.
 ## Classes
 ### Linkify class
 - require_once("system/class/class.linkify.php");	
