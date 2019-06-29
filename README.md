@@ -24,6 +24,8 @@
 - - SEO Friendly URL
 - Mobile App Web Services Ready !
 - Webservice to Webservice (Share with another website)
+- Theme Repository system.
+- Installation system
 
 # Linker CMS
 Repository of the Linker Core &amp; Linker CMS
