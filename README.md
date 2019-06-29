@@ -40,7 +40,7 @@
 Repository of the Linker Core &amp; Linker CMS
 
 ## Installation
-- visit to /installer/install.php file. If you create with successfully, this folder delete after installation.
+- Visit to /installer/install.php file. If you create with successfully, this folder delete after installation.
 - After the installation, should be change or creating to /content/config folder in sql.install.php, config.php, config.email.php files. Don't lose them.
 
 
