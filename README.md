@@ -14,6 +14,11 @@
 ### Uploadify class
 ### Datetimes class
 - require_once("system/class/class.datetimes.php");
+- $dateTime = new DateTimes();
+- echo $dateTime->getTimeStamp();
+- echo $dateTime->getDayCountBetweenDates('01.03.2019','07.03.2019');
+- echo $dateTime->getDateNow(2);
+- print_r($dateTime->getToDate());
 
 ### Database class
 - There are 3 types of classes. Type 1 is Linker methods, type 2 and type 3 are PDO crud methods.
