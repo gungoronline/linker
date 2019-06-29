@@ -24,6 +24,7 @@
 - - SEO Friendly URL
 - Mobile App Web Services Ready !
 - Webservice to Webservice (Share with another website)
+- Theme Selection/Change system
 - Theme Repository system.
 - Installation system
 
