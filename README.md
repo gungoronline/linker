@@ -18,5 +18,12 @@
 - - Linker methods on /content/system/class/class.database.php
 - - PDO crud methods on /content/system/class/class.coreDatabase.php
 
+## Benefits
+- Instant SEO (after then installation)
+- - Sitemap.xml, feed.xml ready
+- - SEO Friendly URL
+- Mobile App Web Services Ready !
+- Webservice to Webservice (Share with another website)
+
 # Linker CMS
 Repository of the Linker Core &amp; Linker CMS
