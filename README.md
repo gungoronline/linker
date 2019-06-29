@@ -4,7 +4,7 @@
 - No required to installation. You should configure to /content/config/
 - config.email.php, config.php
 ## Admin Dashboard
-- Linker Core's U haven't a admin dashboard with Linker Core. for this, You would like to Linker CMS ?
+- Linker Core's you haven't a admin dashboard with Linker Core. for this, You would like to Linker CMS ?
 ## Classes
 ### Linkify class
 - require_once("system/class/class.linkify.php");	
