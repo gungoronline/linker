@@ -19,13 +19,22 @@
 - echo $dateTime->getDayCountBetweenDates('01.03.2019','07.03.2019');
 - echo $dateTime->getDateNow(2);
 - print_r($dateTime->getToDate());
-
 ### Database class
 - There are 3 types of classes. Type 1 is Linker methods, type 2 and type 3 are PDO crud methods.
 - - Linker methods on /content/system/class/class.database.php
 - - PDO crud methods on /content/system/class/class.coreDatabase.php
 - - PDO crud methods on /content/system/class/class.coreDatabaseSqlite.php
-
+## POJO/Models
+- model.email.php
+- model.sys_blog.php
+- model.sys_gallery.php
+- model.sys_login.php
+- model.sys_sitemap.php
+- model.webservice_blogs.php
+- model.webservice_categories.php
+- model.webservice_home.php
+- model.webservice_images.php
+- model.webservice_pages.php
 ## Benefits
 - Instant SEO (after then installation)
 - - Sitemap.xml, feed.xml ready
