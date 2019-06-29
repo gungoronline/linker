@@ -27,3 +27,7 @@
 
 # Linker CMS
 Repository of the Linker Core &amp; Linker CMS
+
+
+# We Team
+- Şerif GÜNGÖR (Lead of Linker CMS)
