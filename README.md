@@ -35,6 +35,12 @@
 - model.webservice_home.php
 - model.webservice_images.php
 - model.webservice_pages.php
+## Cronjobs
+- controller.php
+- - daily
+- - mountly
+- - weekly
+- - yearly
 ## Benefits
 - Instant SEO (after then installation)
 - - Sitemap.xml, feed.xml ready
