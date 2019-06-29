@@ -14,9 +14,10 @@
 ### Uploadify class
 
 ### Database class
-- There are two types of classes. Type 1 is Linker methods, type 2 is PDO crud methods.
+- There are 3 types of classes. Type 1 is Linker methods, type 2 and type 3 are PDO crud methods.
 - - Linker methods on /content/system/class/class.database.php
 - - PDO crud methods on /content/system/class/class.coreDatabase.php
+- - PDO crud methods on /content/system/class/class.coreDatabaseSqlite.php
 
 ## Benefits
 - Instant SEO (after then installation)
