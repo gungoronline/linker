@@ -12,6 +12,7 @@
 - $linkify = new Linkify();
 - $linkify->BASE_URI = $base_site_url
 - GET BASE URL -> $linkify->base_url();
+### Stringify class
 ### Uploadify class
 ### Datetimes class
 - require_once("system/class/class.datetimes.php");
