@@ -21,6 +21,19 @@
 - echo $dateTime->getDayCountBetweenDates('01.03.2019','07.03.2019');
 - echo $dateTime->getDateNow(2);
 - print_r($dateTime->getToDate());
+### Calculate class
+- require_once("system/class/class.calculate.php");
+- $calculate = new Calculate();
+- $calculate->addition(1,9); //10
+- $calculate->subtraction(9,5); //4
+- $calculate->multiplication(9,9); //81
+- $calculate->division(10,2); //5
+- $calculate->factorial(2);
+- $calculate->perfectNumber(5);
+- $calculate->isMod(10); //true
+- $calculate->isNumeric("selam"); //false
+- $calculate->isPositive(1); //true
+- $calculate->isNegative(1); //false
 ### Database class
 - There are 3 types of classes. Type 1 is Linker methods, type 2 and type 3 are PDO crud methods.
 - - Linker methods on /content/system/class/class.database.php
