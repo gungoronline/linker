@@ -14,6 +14,7 @@
 - GET BASE URL -> $linkify->base_url();
 ### Stringify class
 ### Uploadify class
+### Thumbnailify class
 ### Datetimes class
 - require_once("system/class/class.datetimes.php");
 - $dateTime = new DateTimes();
