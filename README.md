@@ -26,6 +26,7 @@
 - $stringify->lastIndexOf("php"); //return integer
 - $stringify->startsWith("Hello"); //return true
 - $stringify->endsWith("linker"); //return false
+- $stringify->splite("-"); //return array
 ### Uploadify class
 ### Thumbnailify class
 ### Datetimes class
