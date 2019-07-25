@@ -13,6 +13,17 @@
 - $linkify->BASE_URI = $base_site_url
 - GET BASE URL -> $linkify->base_url();
 ### Stringify class
+- require_once("system/class/class.stringify.php");	
+- $stringify = new Stringify();
+- isEveryCharInAlphabeth();
+- isNumeric();
+- charAt(0);
+- toUpperCase();
+- toLowerCase();
+- equals("linker");
+- length();
+- indexOf("programmer");
+- lastIndexOf("php");
 ### Uploadify class
 ### Thumbnailify class
 ### Datetimes class
