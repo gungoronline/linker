@@ -27,6 +27,7 @@
 - $stringify->startsWith("Hello"); //return true
 - $stringify->endsWith("linker"); //return false
 - $stringify->splite("-"); //return array
+- $stringify->toCharArray(); //return all characters
 ### Uploadify class
 ### Thumbnailify class
 ### Datetimes class
