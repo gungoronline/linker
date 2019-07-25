@@ -41,6 +41,7 @@
 - $stringify->getBytes();
 - $stringify->concat("test");
 - $stringify->reverseString(); // show reverse to string
+- $stringify->reverseEachString(" "); // Hello world -> world Hello
 - $stringify->toJson();
 ### Uploadify class
 ### Thumbnailify class
