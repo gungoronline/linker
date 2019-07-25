@@ -38,6 +38,7 @@
 - $stringify->substring(5);
 - $stringify->substring(5,10);
 - $stringify->getBytes();
+- $stringify->concat("test");
 ### Uploadify class
 ### Thumbnailify class
 ### Datetimes class
