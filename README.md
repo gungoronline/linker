@@ -39,6 +39,7 @@
 - $stringify->substring(5,10);
 - $stringify->getBytes();
 - $stringify->concat("test");
+- $stringify->reverseString(); // show reverse to string
 ### Uploadify class
 ### Thumbnailify class
 ### Datetimes class
