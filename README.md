@@ -27,6 +27,7 @@
 - $stringify->startsWith("Hello"); //return true
 - $stringify->endsWith("linker"); //return false
 - $stringify->splite("-"); //return array
+- $stringify->toString(); //return string
 - $stringify->toCharArray(); //return all characters
 - $stringify->toTrim(); //removing all spaces
 - $stringify->toLTrim(); //removing to left space
