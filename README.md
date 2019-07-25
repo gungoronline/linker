@@ -28,6 +28,12 @@
 - $stringify->endsWith("linker"); //return false
 - $stringify->splite("-"); //return array
 - $stringify->toCharArray(); //return all characters
+- $stringify->toTrim(); //removing all spaces
+- $stringify->toLTrim(); //removing to left space
+- $stringify->toRTrim(); //removing to right space
+- $stringify->toTrim("-"); //removing to all -> -
+- $stringify->toLTrim("Hello, ");
+- $stringify->toRTrim("cms");
 ### Uploadify class
 ### Thumbnailify class
 ### Datetimes class
