@@ -40,6 +40,7 @@
 - $stringify->getBytes();
 - $stringify->concat("test");
 - $stringify->reverseString(); // show reverse to string
+- $stringify->toJson();
 ### Uploadify class
 ### Thumbnailify class
 ### Datetimes class
