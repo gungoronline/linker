@@ -20,6 +20,7 @@
 - $stringify->charAt(0); //return character
 - $stringify->toUpperCase(); //return all characters to upper
 - $stringify->toLowerCase(); //return all characters to lower
+- $stringify->toUpperEveryCase(); //return every word to upper
 - $stringify->equals("linker"); //true or false
 - $stringify->length(); //return string length
 - $stringify->indexOf("programmer"); //return integer
