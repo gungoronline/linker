@@ -14,16 +14,16 @@
 - GET BASE URL -> $linkify->base_url();
 ### Stringify class
 - require_once("system/class/class.stringify.php");	
-- $stringify = new Stringify();
-- isEveryCharInAlphabeth();
-- isNumeric();
-- charAt(0);
-- toUpperCase();
-- toLowerCase();
-- equals("linker");
-- length();
-- indexOf("programmer");
-- lastIndexOf("php");
+- $stringify = new Stringify("Hello, php world ! Im programmer at linker cms");
+- $stringify->isEveryCharInAlphabeth(); //true or false
+- $stringify->isNumeric(); //true or false
+- $stringify->charAt(0); //return character
+- $stringify->toUpperCase(); //return all characters to upper
+- $stringify->toLowerCase(); //return all characters to lower
+- $stringify->equals("linker"); //true or false
+- $stringify->length(); //return string length
+- $stringify->indexOf("programmer"); //return integer
+- $stringify->lastIndexOf("php"); //return integer
 ### Uploadify class
 ### Thumbnailify class
 ### Datetimes class
