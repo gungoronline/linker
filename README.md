@@ -24,6 +24,8 @@
 - $stringify->length(); //return string length
 - $stringify->indexOf("programmer"); //return integer
 - $stringify->lastIndexOf("php"); //return integer
+- $stringify->startsWith("Hello"); //return true
+- $stringify->endsWith("linker"); //return false
 ### Uploadify class
 ### Thumbnailify class
 ### Datetimes class
