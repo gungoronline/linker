@@ -37,6 +37,7 @@
 - $stringify->toRTrim("cms");
 - $stringify->substring(5);
 - $stringify->substring(5,10);
+- $stringify->getBytes();
 ### Uploadify class
 ### Thumbnailify class
 ### Datetimes class
