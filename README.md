@@ -30,12 +30,9 @@
 - $stringify->splite("-"); //return array
 - $stringify->toString(); //return string
 - $stringify->toCharArray(); //return all characters
-- $stringify->toTrim(); //removing all spaces
-- $stringify->toLTrim(); //removing to left space
-- $stringify->toRTrim(); //removing to right space
-- $stringify->toTrim("-"); //removing to all -> -
-- $stringify->toLTrim("Hello, ");
-- $stringify->toRTrim("cms");
+- $stringify->toTrim(" "); //removing all spaces
+- $stringify->toLTrim(" "); //removing to left space
+- $stringify->toRTrim(" "); //removing to right space
 - $stringify->substring(5);
 - $stringify->substring(5,10);
 - $stringify->getBytes();
