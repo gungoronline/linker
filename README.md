@@ -36,6 +36,7 @@
 - $stringify->toLTrim("Hello, ");
 - $stringify->toRTrim("cms");
 - $stringify->substring(5);
+- $stringify->substring(5,10);
 ### Uploadify class
 ### Thumbnailify class
 ### Datetimes class
