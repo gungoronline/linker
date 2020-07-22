@@ -30,7 +30,8 @@
 - $stringify->splite("-"); //return array
 - $stringify->toString(); //return string
 - $stringify->toCharArray(); //return all characters
-- $stringify->toTrim(" "); //removing all spaces
+- $stringify->toTrim(" "); //removing spaces in first and last indexes
+- $stringify->toTrimEvery(); //removing all spaces
 - $stringify->toLTrim(" "); //removing to left space
 - $stringify->toRTrim(" "); //removing to right space
 - $stringify->substring(5);
