@@ -79,6 +79,8 @@
 - model.webservice_images.php
 - model.webservice_pages.php
 ## Cronjobs
+- Cronjob detecter in content/check_requires.php. You can automatically forward your statistic messages to the mail address you specified on the config / config_email.php page. It is not necessary to do a server-side operation for this operation.
+- You will encounter statistics visuals in mail content. You can download it as a picture.
 - controller.php
 - daily
 - mountly
