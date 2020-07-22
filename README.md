@@ -105,7 +105,7 @@ Repository of the Linker Core &amp; Linker CMS
 - Visit to /installer/install.php file. If you create with successfully, this folder delete after installation.
 - After the installation, should be change or creating to /content/config folder in sql.install.php, config.php, config.email.php files. Don't lose them.
 
-## Installation with Console
+## Installation in Console
 - Can you install to CMS with Command Line 
 - php install/install.php -u admin -p passw0rd -db dbname -dbuser username -dbpass dbuserpw -title site title -baseurl http://localhost/linkercms/
 - Parameters
