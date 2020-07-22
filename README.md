@@ -112,7 +112,7 @@ Repository of the Linker Core &amp; Linker CMS
 - - -p is Default Admin Password
 - - -db is Database Name
 - - -dbuser is Database Connection Username
-- - -dnpass is Database Connection User Password
+- - -dbpass is Database Connection User Password
 - - -title is Website Title
 - - -baseurl is Site URL 
 
