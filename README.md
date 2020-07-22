@@ -89,7 +89,7 @@
 - - yearly
 ## Benefits
 - Instant SEO (after then installation)
-- - Sitemap.xml, feed.xml ready
+- - Sitemap.xml, feed.xml, atom.xml ready
 - - SEO Friendly URL
 - Mobile App Web Services Ready !
 - Daily, Weekly, Monthly and Annual Statistics Reports are Ready!
