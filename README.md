@@ -92,6 +92,7 @@
 - - Sitemap.xml, feed.xml ready
 - - SEO Friendly URL
 - Mobile App Web Services Ready !
+- Daily, Weekly, Monthly and Annual Statistics Reports are Ready!
 - Webservice to Webservice (Share with another website)
 - Theme Selection/Change system
 - Theme Repository system.
