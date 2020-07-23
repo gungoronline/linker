@@ -118,7 +118,7 @@ Repository of the Linker Core &amp; Linker CMS
 - - -title is Website Title
 - - -baseurl is Site URL 
 
-# Folder Tree
+## Folder Tree
 - index.php (File)
 - .htaccess (File)
 - content (Folder)
