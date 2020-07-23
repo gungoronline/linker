@@ -118,5 +118,90 @@ Repository of the Linker Core &amp; Linker CMS
 - - -title is Website Title
 - - -baseurl is Site URL 
 
+# Folder Tree
+- index.php (File)
+- .htaccess (File)
+- content (Folder)
+- - api
+- - - json
+- - - post
+- - config
+- - - config.email.php
+- - - config.php
+- - - sql.install.php
+- - - config_local.php
+- - cronjobs
+- - - daily
+- - - mountly
+- - - weekly
+- - - yearly
+- - dashboard (For LinkerCMS)
+- - external
+- - - ogimage
+- - package
+- - - language
+- - - phpMailer
+- - - verotUploader
+- - - phpMailSent.php
+- - plugins
+- - - captcha
+- - pojo
+- - - include_models.php
+- - - model.email.php
+- - - model.sys_blog.php
+- - - model.sys_gallery.php
+- - - model.sys_login.php
+- - - model.sys_sitemap.php
+- - - model.webservice_blogs.php
+- - - model.webservice_categories.php
+- - - model.webservice_home.php
+- - - model.webservice_images.php
+- - - model.webservice_pages.php
+- - - model.webservice_todayOrganicSearch.php
+- - sitemaps
+- - - __archives.php
+- - - __atomfeed.php
+- - - __categories.php
+- - - __galleries.php
+- - - __keywords.php
+- - - __pages.php
+- - - __rssfeed.php
+- - - __rssfeed_category.php
+- - - __sitemap.php
+- - - __sitemap_index.php
+- - system
+- - - class
+- - - - class.analyseCrawlers.php
+- - - - class.analyseRefers.php
+- - - - class.calculate.php
+- - - - class.coreDatabase.php
+- - - - class.coreDatabaseSqlite.php
+- - - - class.database.php
+- - - - class.datetimes.php
+- - - - class.functions.php
+- - - - class.getip.php
+- - - - class.hook.php
+- - - - class.linkify.php
+- - - - class.mail.phpmailer.php
+- - - - class.mail.pop3.php
+- - - - class.mail.smtp.php
+- - - - class.pagePing.php
+- - - - class.security.php
+- - - - class.seo.php
+- - - - class.seolink.php
+- - - - class.stringify.php
+- - - - class.unzipper.php
+- - - - class.upload.php
+- - - - include_classes.php
+- - - database
+- - - - offline.db
+- - themes
+- - - repository.json
+- uploads (Folder)
+- - gallery
+- - images
+- - pdf
+- - rar
+
 # We Team
 - Şerif GÜNGÖR (Lead of Linker CMS)
