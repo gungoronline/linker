@@ -92,7 +92,7 @@
 - Instant SEO (after then installation)
 - - sitemap.xml, sitemap_index.xml, keywords.xml, pages.xml, feed.xml, atom.xml ready
 - - SEO Friendly URL
-- Mobile App Web Services Ready !
+- Mobile App Web Services Ready ! (And every blog posts/pages indexing on [Filterexp](http://filterexp.com) )
 - Daily, Weekly, Monthly and Annual Statistics Reports are Ready!
 - Webservice to Webservice (Share with another website)
 - Theme Selection/Change system
